@@ -13,7 +13,7 @@ Here you will find a complete list of Italian regional channels, including radio
 
 <h2>Digital Terrestrial (WIP)</h2>
 
-[Digital Terrestrial]()
+[Digital Terrestrial](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/digital-terrestrial.m3u)
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
