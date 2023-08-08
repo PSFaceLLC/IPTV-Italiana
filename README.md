@@ -1,4 +1,4 @@
- <img height="150" src="https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/logo.png"/>
+ <img height="120" src="https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/logo.png"/>
 
  
 <h2>IPTV-Italiana Deluxe (WIP)</h2>
