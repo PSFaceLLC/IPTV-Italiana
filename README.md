@@ -4,13 +4,6 @@
 
 <h2>Regional Channels (WIP)</h2>
 
-<iframe
-    src="https://m3u-editor.com/embed/1d0c1f30-3543-11ee-98c6-f755495a2cb6"
-    width="100%"
-    height="800"
-    frameborder="0">
-</iframe>
-
 | #   | Channel        | Link  | Logo | EPG id | Region |
 |:---:|:--------------:|:-----:|:----:|:------:|:------:|
 | ?   |Radio Saba Sound TV| [>](https://stream1.xdevel.com/video0s975496-379/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/radio-saba-sound-tv.png"/> | RadioSabaSoundTv.it |Abruzzo|
