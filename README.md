@@ -1,4 +1,4 @@
-<h1>IPTV-Italiana, the Italian IPTV</h1>
+<h1>IPTV-Italiana, <h3>the Italian IPTV</h3></h1>
 
 
 <h2>IPTV-Italiana Deluxe (WIP)</h2>
