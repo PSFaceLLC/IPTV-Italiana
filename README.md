@@ -1,7 +1,6 @@
-<h1>Italy</h1>
+<h1>Italy IPTV</h1>
 
-https://en.wikipedia.org/wiki/Television_in_Italy#Digital_terrestrial_television
-https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
+
 
 <h2>Regional Channels (WIP)</h2>
 
@@ -9,3 +8,10 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|:------:|
 | ?   |Radio Saba Sound TV| [>](https://stream1.xdevel.com/video0s975496-379/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/radio-saba-sound-tv.png"/> | RadioSabaSoundTv.it |Abruzzo|
 | ?   |Radio Parsifal TV| [>](https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/parsifal-tv.png"/> | RadioSabaSoundTv.it |Abruzzo|
+
+<h2>Digital Terrestrial (WIP)</h2>
+
+
+Scusa, ma non ancora pronta, dovrai aspettare fino a quando finisco la lista dei canali regionali. se vuoi qualche canale del digitale terrestre guarda Nuovo documento di testo.m3u
+
+sry, but it isn't ready yet, you have to waith until i finish the regional channels list. if you want to watch some channel of the Digital Terrestrial look at Nuovo documento di test.m3u
