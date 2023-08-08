@@ -11,7 +11,7 @@ Here you will find a complete list of Italian regional channels, including radio
 [Regional Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/regional.m3u)
 
 
-<h2>Digital Terrestrial (WIP)</h2>
+<h2>Digital Terrestrial</h2>
 
 [Digital Terrestrial](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/digital-terrestrial.m3u)
 
