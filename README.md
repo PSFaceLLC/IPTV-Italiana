@@ -12,6 +12,6 @@
 <h2>Digital Terrestrial (WIP)</h2>
 
 
-Scusa, ma non ancora pronta, dovrai aspettare fino a quando finisco la lista dei canali regionali. se vuoi qualche canale del digitale terrestre guarda Nuovo documento di testo.m3u
+Scusa, ma non ancora pronta, dovrai aspettare fino a quando finisco la lista dei canali regionali. se vuoi qualche canale del digitale terrestre guarda [Nuovo documento di testo.m3u](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/Nuovo%20Documento%20di%20testo.m3u)
 
-sry, but it isn't ready yet, you have to waith until i finish the regional channels list. if you want to watch some channel of the Digital Terrestrial look at Nuovo documento di test.m3u
+sry, but it isn't ready yet, you have to waith until i finish the regional channels list. if you want to watch some channel of the Digital Terrestrial look at [Nuovo documento di test.m3u](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/Nuovo%20Documento%20di%20testo.m3u)
