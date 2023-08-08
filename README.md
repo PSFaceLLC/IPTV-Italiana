@@ -1,14 +1,14 @@
 <h1>IPTV-Italiana</h1>
 
 The Italian IPTV :)
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <h2>IPTV-Italiana Deluxe (WIP)</h2>
 
 Un unico file che racchiude tutti le IPTV italiane qui sotto, cosí non devi avere tante IPTV nel tuo player. (Magari contiente qualche canale in piú)
