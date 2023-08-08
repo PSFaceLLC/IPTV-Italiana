@@ -4,13 +4,11 @@
 
 <h2>Regional Channels (WIP)</h2>
 
-| #   | Channel        | Link  | Logo | EPG id | Region |
-|:---:|:--------------:|:-----:|:----:|:------:|:------:|
-| ?   |Radio Saba Sound TV| [>](https://stream1.xdevel.com/video0s975496-379/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/radio-saba-sound-tv.png"/> | RadioSabaSoundTv.it |Abruzzo|
-| ?   |Radio Parsifal TV| [>](https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/parsifal-tv.png"/> | RadioParsifalTv.it |Abruzzo|
-| ?   |Radio Delta 1 TV| [>](https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8) | <img height="20" src="https://www.tvdream.net/img/radio-delta-1-tv.png"/> | RadioDelta1Tv.it |Abruzzo|
+Qui troverai un elenco completo dei canali regionali italiani, che includono radio, canali online e televisivi. Clicca qui sotto per ottenere il link da inserire nel tuo lettore IPTV.
 
-[Click here to obtain link](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/regional.m3u)
+Here you will find a complete list of Italian regional channels, including radio, online channels and television channels. Click below to get the link to insert into your IPTV player.
+
+[Regional Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/regional.m3u)
 
 
 <h2>Digital Terrestrial (WIP)</h2>
