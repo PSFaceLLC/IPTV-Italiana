@@ -5,6 +5,8 @@
 
 Un unico file che racchiude tutti le IPTV italiane qui sotto, cosí non devi avere tante IPTV nel tuo player. (Magari contiente qualche canale in piú)
 
+A single file that includes all the Italian IPTV channels listed below, so you don't have to have multiple IPTV playlists on your player. (It may contain some additional channel).
+
 <h2>Regional Channels (WIP)</h2>
 
 Qui troverai un elenco completo dei canali regionali italiani, che includono radio, canali online e televisivi. Clicca qui sotto per ottenere il link da inserire nel tuo lettore IPTV.
