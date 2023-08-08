@@ -1,13 +1,5 @@
-<h1>IPTV-Italiana</h1>
+ <img height="70" src="https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/logo.png"/>
 
-The Italian IPTV :)
- 
- 
- 
- 
- 
- 
- 
  
 <h2>IPTV-Italiana Deluxe (WIP)</h2>
 
