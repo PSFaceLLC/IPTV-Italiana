@@ -10,6 +10,13 @@ Here you will find a complete list of Italian regional channels, including radio
 
 [Regional Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/regional.m3u)
 
+<h2>Web TV</h2>
+
+Una lista dei canali tv web, come Pluto TV o Rakuten, cliccando [qui otterrai un link diretto per la playlist.](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
+
+A list of web TV channels, like Pluto TV or Rakuten, by clicking [here you will get a direct link for the playlist.](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
+
+[Web Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
 
 <h2>Digital Terrestrial</h2>
 
@@ -84,8 +91,3 @@ Here you will find a complete list of Italian regional channels, including radio
 | 511 | BFC            | [>](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
-<h2>Web TV</h2>
-
-Una lista dei canali tv web, come Pluto TV o Rakuten, cliccando [qui otterrai un link diretto per la playlist.](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
-
-A list of web TV channels, like Pluto TV or Rakuten, by clicking [here you will get a direct link for the playlist.](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
