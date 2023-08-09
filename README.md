@@ -15,6 +15,13 @@ Here you will find a complete list of Italian regional channels, including radio
 
 [Regional Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/regional.m3u)
 
+<h2>Regional Channels (WIP)</h2>
+
+Lista dei canali "Extra" italiani, canali che non rientrano in nessun'altra categoria delle qui presenti.
+
+[Extras](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/extra.m3u)
+
+
 <h2>Web Channels</h2>
 
 Una lista dei canali tv web, come Pluto TV o Rakuten, cliccando [qui otterrai un link diretto per la playlist.](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
