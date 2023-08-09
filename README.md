@@ -23,6 +23,12 @@ A list of web TV channels, like Pluto TV or Rakuten, by clicking [here you will 
 
 [Web Channels](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/web-tv.m3u)
 
+<h2>Regional Channels (WIP)</h2>
+
+Lista dei canali "Extra" italiani, canali che non rientrano nelle categorie regionali, digitali o web.
+
+[Extras](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/extra.m3u)
+
 <h2>Digital Terrestrial</h2>
 
 [Digital Terrestrial](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/digital-terrestrial.m3u)
