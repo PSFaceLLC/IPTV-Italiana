@@ -1,0 +1,113 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="WeddingTv.it" tvg-logo="https://www.tvdream.net/img/wedding-tv.png" tvg-logo-small="https://www.tvdream.net/img/wedding-tv.png" group-title="Extra Channels", Wedding TV
+https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
+#EXTINF: -1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://www.tvdream.net/img/sportitalia.png" tvg-logo-small="https://www.tvdream.net/img/sportitalia.png" group-title="Extra Channels", Sportitalia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF: -1 tvg-id="GoTv.it" tvg-chno="68" tvg-logo="https://www.tvdream.net/img/go-tv.png" tvg-logo-small="https://www.tvdream.net/img/go-tv.png" group-title="Extra Channels", GO-TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="CanaleItalia.it" tvg-logo="https://www.tvdream.net/img/canale-italia.png" tvg-logo-small="https://www.tvdream.net/img/canale-italia.png" group-title="Extra Channels", Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="CasaItalia.it" tvg-logo="https://www.tvdream.net/img/casa-italia.png" tvg-logo-small="https://www.tvdream.net/img/casa-italia.png" group-title="Extra Channels", Casa Italia
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/chunklist_b1100000.m3u8
+#EXTINF: -1 tvg-chno="123" tvg-logo="https://www.tvdream.net/img/italia-channel.png" tvg-logo-small="https://www.tvdream.net/img/italia-channel.png" group-title="Extra Channels", Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/tesory-channel.png" tvg-logo-small="https://www.tvdream.net/img/tesory-channel.png" group-title="Extra Channels", Tesory Channel
+https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/standbytv.png" tvg-logo-small="https://www.tvdream.net/img/standbytv.png" group-title="Extra Channels", Standby TV
+https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/hope-channel-italia.png" tvg-logo-small="https://www.tvdream.net/img/hope-channel-italia.png" group-title="Extra Channels", Hope Channel Italia
+https://avventisti.tv:1935/AvventistiUICCA/LiveHLS/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/teledehon.png" tvg-logo-small="https://www.tvdream.net/img/teledehon.png" group-title="Extra Channels", TeleDehon
+https://5f22d76e220e1.streamlock.net/Teledehon/smil:Teledehon.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/tv-koper-capodistria.png" tvg-logo-small="https://www.tvdream.net/img/tv-koper-capodistria.png" group-title="Extra Channels", TV Koper Capodistria
+https://cdn-live.rtvslo.si/hls/live/2099159/tvkp/playlist.m3u8?hdnts=exp=1691550238~acl=*~hmac=4e281d3c031af66380ad7f304034cf155c4618e6f53861dd2a5788a243391787
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/bandw-tv.png" tvg-logo-small="https://www.tvdream.net/img/bandw-tv.png" group-title="Extra Channels", BandW TV
+https://59d7d6f47d7fc.streamlock.net/bandw/bandw/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/sophia-tv.png" tvg-logo-small="https://www.tvdream.net/img/sophia-tv.png" group-title="Extra Channels", Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radio-milazzo-tv.png" tvg-logo-small="https://www.tvdream.net/img/radio-milazzo-tv.png" group-title="Extra Channels", Radio Milazzo TV
+https://5926fc9c7c5b2.streamlock.net/9318/9318/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/telearte.png" tvg-logo-small="https://www.tvdream.net/img/telearte.png" group-title="Extra Channels", Telearte
+https://59d7d6f47d7fc.streamlock.net/telearte/telearte/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/rai-sudtirol.png" tvg-logo-small="https://www.tvdream.net/img/rai-sudtirol.png" group-title="Extra Channels", Rai Südtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/enjoy-television.png" tvg-logo-small="https://www.tvdream.net/img/enjoy-television.png" group-title="Extra Channels", Enjoy Television
+https://tvd-ejy.fluid.stream/EnjoyTelevision/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/odeon-24.png" tvg-logo-small="https://www.tvdream.net/img/odeon-24.png" group-title="Extra Channels", Odeon 24
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/tv-yes.png" tvg-logo-small="https://www.tvdream.net/img/tv-yes.png" group-title="Extra Channels", TV Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/euro-tv.png" tvg-logo-small="https://www.tvdream.net/img/euro-tv.png" group-title="Extra Channels", Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radio-bianconera-tv.png" tvg-logo-small="https://www.tvdream.net/img/radio-bianconera-tv.png" group-title="Extra Channels", Radio Bianconera TV
+https://tvd-rbn.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/bfc.png" tvg-logo-small="https://www.tvdream.net/img/bfc.png" group-title="Extra Channels", BFC TV
+https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/supersix.png" tvg-logo-small="https://www.tvdream.net/img/supersix.png" group-title="Extra Channels", SuperSix
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radio-firenze-viola-tv.png" tvg-logo-small="https://www.tvdream.net/img/radio-firenze-viola-tv.png" group-title="Extra Channels", Radio Firenze Viola TV
+https://tvd-rfv.fluid.stream/rfviola_tv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/giocabet-tv.png" tvg-logo-small="https://www.tvdream.net/img/giocabet-tv.png" group-title="Extra Channels", Giocabet TV
+https://live1.giocabet.tv/stream/1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/sorrrisotv.png" tvg-logo-small="https://www.tvdream.net/img/sorrrisotv.png" group-title="Extra Channels", Sorrriso TV
+https://tvd-sorrr.fluid.stream/RadioSorrrisoTV/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/time-tv.png" tvg-logo-small="https://www.tvdream.net/img/time-tv.png" group-title="Extra Channels", Radio Time TV
+https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/tmw-radio-tv.png" tvg-logo-small="https://www.tvdream.net/img/tmw-radio-tv.png" group-title="Extra Channels", TMW Radio TV
+https://tvd-tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/vuemme-tv.png" tvg-logo-small="https://www.tvdream.net/img/vuemme-tv.png" group-title="Extra Channels", VUEMME TV
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/primafree.png" tvg-logo-small="https://www.tvdream.net/img/primafree.png" group-title="Extra Channels", PrimaFREE
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF: -1 tvg-chno="123" tvg-logo="https://www.tvdream.net/img/arte-network.png" tvg-logo-small="https://www.tvdream.net/img/arte-network.png" group-title="Extra Channels", Arte Network
+https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+#EXTINF: -1 tvg-chno="129" tvg-logo="https://www.tvdream.net/img/aurora-arte-tv.png" tvg-logo-small="https://www.tvdream.net/img/aurora-arte-tv.png" group-title="Extra Channels", Aurora Arte TV
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/medjugorje-italia-tv.png" tvg-logo-small="https://www.tvdream.net/img/medjugorje-italia-tv.png" group-title="Extra Channels", Medjugorje Italia TV
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radiostudiopiu-tv.png" tvg-logo-small="https://www.tvdream.net/img/radiostudiopiu-tv.png" group-title="Extra Channels", Radio Studio Più TV
+https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radio-capital-tivu.png" tvg-logo-small="https://www.tvdream.net/img/radio-capital-tivu.png" group-title="Extra Channels", Radio Capital Tivù
+https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/radio-irene-tv.png" tvg-logo-small="https://www.tvdream.net/img/radio-irene-tv.png" group-title="Extra Channels", Radio Irene TV
+https://radioirene.servizistreaming.it/hls/canale1.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/orlertv.png" tvg-logo-small="https://www.tvdream.net/img/orlertv.png" group-title="Extra Channels", Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/giornale-radio-tv.png" tvg-logo-small="https://www.tvdream.net/img/giornale-radio-tv.png" group-title="Extra Channels", GiornaleRadio TV
+https://tvd-gr1.fluid.stream/GR_tv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/teleradiokolbe.png" tvg-logo-small="https://www.tvdream.net/img/teleradiokolbe.png" group-title="Extra Channels", Teleradiokolbe
+https://5a1178b42cc03.streamlock.net/Teleradiokolbe/Teleradiokolbe/playlist.m3u8
+#EXTINF: -1 tvg-chno="89" tvg-logo="https://www.tvdream.net/img/motori-tv.png" tvg-logo-small="https://www.tvdream.net/img/motori-tv.png" group-title="Extra Channels", Motori TV
+https://5f22d76e220e1.streamlock.net/primantenna/primantenna/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/st-europe-channel.png" tvg-logo-small="https://www.tvdream.net/img/st-europe-channel.png" group-title="Extra Channels", ST EUROPE Channel
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/video-m-italia.png" tvg-logo-small="https://www.tvdream.net/img/video-m-italia.png" group-title="Extra Channels", Video M Italia
+https://stream1.xdevel.com/video0s975675-263/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/retebiella.png" tvg-logo-small="https://www.tvdream.net/img/retebiella.png" group-title="Extra Channels", Rete Biella TV
+https://ed04.top-ix.org/retebiella/_definst_/streaming/playlist.m3u8
+#EXTINF: -1 tvg-chno="88" tvg-logo="https://www.tvdream.net/img/nsl-radio-tv.png" tvg-logo-small="https://www.tvdream.net/img/nsl-radio-tv.png" group-title="Extra Channels", NSL Radio TV
+https://streannlivensl.cachefly.net/Protected/sp=1;dirmatch=true;ip=31.188.52.197/ce3998eaaa2a47e43cbaadc34ce8dc33e9bbf05ee0ed176c276cb1da3d1e4609/nsl1/nsl1/playlist.m3u8
+#EXTINF: -1 tvg-chno="228 Sky" tvg-logo="https://www.tvdream.net/img/acisport-tv.png" tvg-logo-small="https://www.tvdream.net/img/acisport-tv.png" group-title="Extra Channels", ACI Sport TV
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+#EXTINF: -1 tvg-chno="262" tvg-logo="https://www.tvdream.net/img/byoblu-tv.png" tvg-logo-small="https://www.tvdream.net/img/byoblu-tv.png" group-title="Extra Channels", ByoBlu
+https://streamcdnr3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF: -1 tvg-chno="810 Sky" tvg-logo="https://www.tvdream.net/img/well-tv.png" tvg-logo-small="https://www.tvdream.net/img/well-tv.png" group-title="Extra Channels", Well TV
+https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/dolomiti-life-tv.png" tvg-logo-small="https://www.tvdream.net/img/dolomiti-life-tv.png" group-title="Extra Channels", Dolomiti Life TV
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/nuova-tv.png" tvg-logo-small="https://www.tvdream.net/img/nuova-tv.png" group-title="Extra Channels", Nuova TV 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/teatro-tv.png" tvg-logo-small="https://www.tvdream.net/img/teatro-tv.png" group-title="Extra Channels", Teatro TV
+https://teatrotv.iostream.it:3334/teatrotv/teatrotv/llhls.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/brixiachannel.png" tvg-logo-small="https://www.tvdream.net/img/brixiachannel.png" group-title="Extra Channels", Brixia Channel
+https://stream.mariatvcdn.com/brixiachannel/538fe76464ccda653c009ee506105ee5.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/nuova-tv-nazionale.png" tvg-logo-small="https://www.tvdream.net/img/nuova-tv-nazionale.png" group-title="Extra Channels", Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/rdstv.png" tvg-logo-small="https://www.tvdream.net/img/rdstv.png" group-title="Extra Channels", RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF: -1 tvg-chno="264" tvg-logo="https://www.tvdream.net/img/cusano-italia-tv.png" tvg-logo-small="https://www.tvdream.net/img/cusano-italia-tv.png" group-title="Extra Channels", Cusano Italia TV
+https://stream7.xdevel.com/video0s975363-1557/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvdream.net/img/insuranceconnect-tv.png" tvg-logo-small="https://www.tvdream.net/img/insuranceconnect-tv.png" group-title="Extra Channels", Insurance Connect TV
+https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
+#EXTINF: -1 tvg-chno="19" tvg-logo="https://www.tvdream.net/img/italia7.png" tvg-logo-small="https://www.tvdream.net/img/italia7.png" group-title="Extra Channels", Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
