@@ -1,13 +1,14 @@
  <img height="120" src="https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/logo.png"/>
       l'IPTV Italiana piú completa esistente
  
-<h2>IPTV-Italiana Deluxe (WIP)</h2>
+<h2>IPTV-Italiana Deluxe</h2>
 
 Un unico file che racchiude tutti le IPTV italiane qui sotto, cosí non devi avere tante IPTV nel tuo player. (Magari contiente qualche canale in piú)
 
 A single file that includes all the Italian IPTV channels listed below, so you don't have to have multiple IPTV playlists on your player. (It may contain some additional channel).
 
-<h2>Regional Channels (WIP)</h2>
+[Complete Version!!](https://raw.githubusercontent.com/PSFaceLLC/IPTV-Italiana/main/deluxe.m3u)
+<h2>Regional Channels</h2>
 
 Qui troverai un elenco completo dei canali regionali italiani, che includono radio, canali online e televisivi. Clicca qui sotto per ottenere il link da inserire nel tuo lettore IPTV.
 
